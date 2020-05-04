@@ -1,0 +1,19 @@
+{
+  "name": "react-todo-list",
+  "version": "1.0.0",
+  "description": "Uma lista de afazeres simples construida em react",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igor",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  }
+}
